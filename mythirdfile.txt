@@ -1,0 +1,3 @@
+Git is lovely
+Git is beautiful
+git is easy
